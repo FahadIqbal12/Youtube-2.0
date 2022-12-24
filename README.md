@@ -4,7 +4,7 @@ This project is only made for learning purposes with the help of Rapid API.
 To run the project:
 1. Fork and clone the repo
 2. run `npm install`
-3. provide the API key from Rapid API.
+3. provide the API key from Rapid API also make .env file containing API key.
 4.run `npm start`
 
 Make sure to give a star!
